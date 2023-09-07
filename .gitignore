@@ -1,0 +1,8 @@
+venv/
+.ipynb_checkpoints/
+slurm/
+coursework_brief*.pdf
+final/
+data.zip
+video.avi
+video2.avi
